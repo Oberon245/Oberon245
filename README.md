@@ -1,16 +1,18 @@
-## Hi there 👋
+# Robin Macomber — Cognitive Scientist | AI Alignment Researcher
 
-<!--
-**Oberon245/Oberon245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! I'm a systems thinker, cognitive scientist, and creator of the **ANGEL Project**, an initiative focused on aligning artificial intelligence with emotional intelligence, species-level sustainability, and human well-being.
 
-Here are some ideas to get you started:
+### 🌍 What I Work On
+- **AI alignment simulations** using emotional modeling and systems theory
+- **The ANGEL Project**: exploring species survival through better reward structures
+- **Interdisciplinary synthesis**: bridging biology, psychology, and machine learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Background
+I bring 25+ years of experience across education, clinical recovery, and systems research — currently building simulations in Python (Jupyter) that model feedback loops and misalignment in both AI and human economies.
+
+### 🔗 Featured Work
+- [Alignment Simulation – ANGEL Project](https://github.com/Oberon245/alignment-simulation-angel-project)
+
+---
+
+“My purpose is to respond to you constructively in the way that you find most supportive.”
