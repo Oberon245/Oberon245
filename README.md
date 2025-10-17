@@ -1,15 +1,14 @@
-# Robin Macomber — Cognitive Scientist | AI Alignment Researcher
+# Robin Macomber — Computational Scientist | AI Alignment Researcher | Software Developer
 
-Welcome! I'm a systems thinker, cognitive scientist, and creator of the **ANGEL Project**, an initiative focused on aligning artificial intelligence with emotional intelligence, species-level sustainability, and human well-being.
+Welcome! I’m a systems thinker, computational scientist, and developer focused on building advanced simulations and intelligent tools for researchers and engineers.
 
 ### 🌍 What I Work On
-- **AI alignment simulations** using emotional modeling and systems theory
-- **The ANGEL Project**: exploring species survival through better reward structures
+- **Custom software applications and simulations** using LLM acclerated ML processes
+- **Relational Relativity Mathematics**: applying relational equations across multiple disciplines
 - **Interdisciplinary synthesis**: bridging systems biology, neuroscience, physics, and machine learning
 
 ### 🧠 Background
-I bring 25+ years of experience across education, clinical recovery, and systems research — currently building simulations in Python (Jupyter) that model feedback loops and misalignment in both AI and human economies, as well as quantum computation
-
+I bring over 25 years of experience applying physics, biology, and computer science to the design of complex simulations in fields including chemical engineering, telecom, and quantum computing. My work bridges rigorous scientific modeling with practical software design, driven by a deep commitment to human and planetary well-being
 ### 🔗 Featured Work
 - [Alignment Simulation – ANGEL Project](https://github.com/Oberon245/alignment-simulation-angel-project)
 
