@@ -10,7 +10,7 @@ Welcome! I’m a systems thinker, computational scientist, and developer focused
 ### 🧠 Background
 I bring over 25 years of experience applying physics, biology, and computer science to the design of complex simulations in fields including chemical engineering, telecom, and quantum computing. My work bridges rigorous scientific modeling with practical software design, driven by a deep commitment to human and planetary well-being
 ### 🔗 Featured Work
-- [Alignment Simulation – ANGEL Project](https://github.com/Oberon245/alignment-simulation-angel-project)
+https://github.com/orgs/Relational-Relativity-Corporation/repositories
 
 ---
 
