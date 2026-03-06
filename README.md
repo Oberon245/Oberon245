@@ -18,7 +18,7 @@ Computational scientist and software developer working on invariant relational m
 
 Independent researcher and software developer. Two decades of study across mathematics, physics, systems biology, and cognitive science converged on a single question: what structural relationships persist across domains regardless of implementation? That question drove the development of invariant relational mathematics — formalized as the ABCRE operator kernel — and a body of mathematically rigorous system designs preceding any implementation.
 
-The code followed the mathematics. The portfolio here represents over 100,000 lines written in the last eight months, with commit history open for inspection. Results are specific and falsifiable: 88-step early warning lead time, bounded update operators replacing conditional branching, operator type signatures enforced by construction. The domain breadth — supply chain, robotics, adaptive control, audio synthesis — is evidence of cross-domain invariance, not a credential list.
+The code followed the mathematics. Results are specific and falsifiable: 88-step early warning lead time, bounded update operators replacing conditional branching, operator type signatures enforced by construction. The domain breadth — supply chain, robotics, adaptive control, audio synthesis — is evidence of cross-domain invariance, not a credential list.
 
 ---
 
